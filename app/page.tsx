@@ -34,8 +34,6 @@ export const metadata: Metadata = {
 export default function Home() {
 return (
 <main>
-
-
 {/*This is the "Welcome blah blah blah"*/}
 <WelcomeText />
 {/*Projcetssss*/}
